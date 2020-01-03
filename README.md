@@ -1,9 +1,7 @@
-#GrassStep
+## GrassStep
+A Paper plugin where players can walk over dirt blocks and changes them into grass blocks. Particles will spawn periodically when blocks are changed. Toggleable and features a counter that tracks the amount of blocks changed per player.
 
-Turn dirt into grass just by walking on it!
+Inspired by [Bukkit.org Plugin Request](https://bukkit.org/threads/grass-step-plugin.483177)
+***
+Uses [Annotation Command Framework](https://github.com/aikar/commands) by Aikar
 
-Inspired by https://bukkit.org/threads/grass-step-plugin.483177/
-
-When a player moves on a dirt block, it will change to a grass block and will spawn particles periodically.
-
-Toggleable and a counter feature is present as well; counts the amount of blocks changed from dirt to grass.
