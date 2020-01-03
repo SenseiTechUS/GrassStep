@@ -7,16 +7,6 @@ import dev.audaxius.grassstep.events.GrassStepJoinEvent;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
-/**
- * GrassStep Module
- * https://bukkit.org/threads/grass-step-plugin.483177/
- * <p>
- * When a player moves on a dirt block, it will change to a dirt block and will spawn particles
- * periodically, also toggleable. A counter feature is present as well; counts the amount of blocks
- * changed from dirt to grass
- * <p>
- */
-
 public class GrassStep extends JavaPlugin {
 
     //  define common variables
